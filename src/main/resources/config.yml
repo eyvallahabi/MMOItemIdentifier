@@ -1,0 +1,13 @@
+
+menu:
+  animation-ticks: 100
+  roll-sound: BLOCK_NOTE_BLOCK_PLING
+  win-sound: UI_TOAST_CHALLENGE_COMPLETE
+  title: "Blacksmith"
+  items:
+    roll:
+      material: ANVIL
+      name: "&aIdentify Item"
+      lore:
+        - "&7Click to identify your item."
+        - "&7Cost: &610 Gold Coins"

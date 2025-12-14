@@ -1,0 +1,4 @@
+name: MMOItemIdentifier
+version: '1.0-SNAPSHOT'
+main: io.github.shiryu.identifier.IdentifierPlugin
+api-version: '1.21'

@@ -1,0 +1,18 @@
+
+items:
+  swords:
+    type: SWORD
+    item:
+      material: CHEST
+      name: "&6Unidentified Sword"
+      lore:
+        - "&7This sword is shrouded in mystery."
+        - "&7Use an identification scroll to reveal its true power."
+        - "&7If you want to identify this item go to the blacksmith."
+        - "&7Chance to be:"
+        - ""
+        - "&7&lCommon &a%chance_common%"
+        - "&6&lRare &e%chance_rare%"
+        - "&e&lVery Rare &d%chance_very_rare%"
+        - "&5&lLegendary &c%chance_legendary%"
+        - "&d&lMythical &4???"
